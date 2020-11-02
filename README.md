@@ -27,3 +27,6 @@ This project was for the  Ministry of Environment, Water, and Agriculture's Gafl
 - [Mohammed Al-Khrashi](https://github.com/MohammedAlkhrashi)
 - [Mohammed Al-Ohaydab](https://github.com/MohammedAlohaydab)
 - [Mohammed Al-Wohayyeb](https://github.com/m-alwohayyeb)
+
+## Certificate of Thanks and Appreciation
+The Certificate of Thanks and Appreciation from Dr.Bander Al-Saqhan the director general of the general department for agricultural research and guidance can be found [here](https://github.com/Omar-Al-Khathlan/Gaflh-event/blob/main/Certificate%20of%20Thanks%20and%20Appreciation/Certificate%20of%20Thanks%20and%20Appreciation.pdf).
