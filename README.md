@@ -28,6 +28,7 @@ This project was for the  Ministry of Environment, Water, and Agriculture's Gafl
 - [Mohammed Al-Khrashi](https://github.com/MohammedAlkhrashi)
 - [Mohammed Al-Ohaydab](https://github.com/MohammedAlohaydab)
 - [Mohammed Al-Wohayyeb](https://github.com/m-alwohayyeb)
+- [Omar Al-Khathlan](https://github.com/Omar-Al-Khathlan)
 
 ## App stores
 - [Play store (Android)](https://play.google.com/store/apps/details?id=com.galfh.app.GaflhEvent)
